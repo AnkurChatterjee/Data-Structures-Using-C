@@ -4,7 +4,7 @@
 
 Write a program for circular linked list in C. Each node in the list must have two parts. The 'info' which consists of the data and the 'link' which contains the address of
 the next node in the list. The link part of the last node should point to the first node in the list. <br/>
-The following operations has to be done on the single linked list - <br/>
+The following operations has to be done on the circular linked list - <br/>
 
 1. Create new list
 2. Add at beginning
